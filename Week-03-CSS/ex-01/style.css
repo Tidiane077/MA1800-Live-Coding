@@ -1,0 +1,13 @@
+
+
+body {
+background-colour: lightblue;
+}
+
+/*style the main heading*/
+
+h1 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
