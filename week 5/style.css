@@ -1,0 +1,44 @@
+/* 🥱my css for page 1 */
+
+body { margin: 16px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,sans-serif; 
+    background-color: gainsboro; 
+}
+
+.main-panel { display: flex; gap: 8px; }
+
+.content-block { padding: 16px; color:black; }
+
+.green {background: #c8f7c5; flex: 1;}
+
+.yellow {background:  #fff3b0; flex: 1;}
+
+.blue {background:  #c8f7c5; flex: 2}
+
+
+
+
+/* 🥱my css for page 2 */
+
+#content {
+    width: 50%;
+    max-width: 800px;
+    min-width: none;width: 250px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    background: navy;
+    color: gainsboro;
+}
+
+.caption{
+    font-size: 16px;
+    padding: 0 10px;
+    font-style: italic;
+
+}
+
+a{ color: crimson;
+  text-decoration: none;
+}
+
+a:hover { background: navy; color: gainsboro;}

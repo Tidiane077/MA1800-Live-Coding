@@ -1,0 +1,32 @@
+/* css for index page */
+
+#content {
+    width: 600px;
+    border: 10px solid blanchedalmond;
+    margin: 0 auto;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2rem;
+    background-color: powderblue ;
+}
+
+.hide {
+    color: transparent;
+    border-radius: 5px dotted blue;
+}
+
+.hide:hover {
+   color: black;
+   cursor: pointer;
+}
+
+
+div { 
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+
+background-image: url(Images/pokemon.gif);
+background-repeat: repeat; 
+
+}
